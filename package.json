@@ -6,6 +6,6 @@
   "scripts":{
       "start": "node bot.js"
   }
-	"author": "ThatzNiko",
+	//"author": "ThatzNiko",
 	"dependencies": {}
 }
